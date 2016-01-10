@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Matt Hadley Photography]]></title>
         <description><![CDATA[Matt Hadley Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matt-hadley-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 08:45:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 08:48:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matt-hadley-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bea49c9f-f078-4751-8c1e-9daf1ece6190.jpg">]]></description>
-            <link>undefined4121bec3-d7ed-47e7-9e5c-cac2e3d6681d/index.html</link>
+            <link>https://thegrid.ai/matt-hadley-photography/4121bec3-d7ed-47e7-9e5c-cac2e3d6681d/index.html</link>
             <guid isPermaLink="false">4121bec3-d7ed-47e7-9e5c-cac2e3d6681d</guid>
-            <pubDate>Sun, 10 Jan 2016 08:45:10 GMT</pubDate>
+            <pubDate>Sun, 10 Jan 2016 08:48:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
